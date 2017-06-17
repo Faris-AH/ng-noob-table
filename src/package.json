@@ -1,0 +1,26 @@
+{
+  "name": "ng-noob-table",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Faris-AH/ng-noob-table"
+  },
+  "author": {
+    "name": "faris.hameed@hotmail.com",
+    "email": "faris.hameed@hotmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Faris-AH/ng-noob-table/issues"
+  },
+  "module": "ng-noob-table.js",
+  "typings": "ng-noob-table.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
